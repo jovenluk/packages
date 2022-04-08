@@ -1,0 +1,1 @@
+{"tomates": 10, "patatas": 2, "pan": 5}
